@@ -13,7 +13,7 @@ html {
 }
 
 body {
-  background-color: #e8ddbc;
+  background-color: #db9c80;
   font-family: "Anaheim", sans-serif;
   color: #737f8a;
   -webkit-font-smoothing: antialiased;
@@ -48,12 +48,12 @@ pre {
 ::-moz-selection {
   /* Code for Firefox */
   color: #fff;
-  background: #57cbcc;
+  background: #e8ddbc;
 }
 
 ::selection {
   color: #fff;
-  background: #57cbcc;
+  background: #e8ddbc;
 }
 
 hr {
@@ -137,7 +137,7 @@ a:hover {
   position: absolute;
   top: -4px;
   width: 50px;
-  background-color: #57cbcc;
+  background-color: #e8ddbc;
 }
 
 .color {
@@ -163,11 +163,11 @@ a:hover {
 }
 
 .bg-one {
-  background-color: #353b43;
+  background-color: #db9e82;
 }
 
 .bg-dark {
-  background: #242930;
+  background: #e8ddbc;
 }
 
 .parallax-section {
