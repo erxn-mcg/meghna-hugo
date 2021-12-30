@@ -13,7 +13,7 @@ html {
 }
 
 body {
-  background-color: #db9c80;
+  background-color: #e8ddbc;
   font-family: "Anaheim", sans-serif;
   color: #737f8a;
   -webkit-font-smoothing: antialiased;
@@ -407,7 +407,7 @@ a:hover {
   Navigation
 ==================================================================*/
 .navigation {
-  background-color: #1d2024;
+  background-color: #e8ddbc;
   width: 100%;
   margin-bottom: 0;
 }
@@ -536,7 +536,7 @@ a:hover {
 }
 
 .dark-bg {
-  background: #db9e82;
+  background: #e8ddbc;
   height: 100%;
   width: 100%;
   position: absolute;
