@@ -11,5 +11,12 @@ social:
   link: https://github.com/erxn-mcg
 
 ---
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin sit amet vulputate augue. Duis auctor lacus id vehicula gravida. Nam suscipit vitae purus et laoreet.
-Donec nisi dolor, consequat vel pretium id, auctor in dui. Nam iaculis, neque ac ullamcorper.
+Hi, I am Erin, the creator of Studi Cacti! I am currently a student trying to get my head around revision and personal growth. I decided to create this platform to _share_ my findings with others in similar positions, so everyone can grow together!
+
+> Studi Cacti is a place for personal growth <3
+
+Though it may seem like it for some, academic validation is not the only thing that means success in life! It is **so so so important** to take care of yourself as well, even it that just means journaling before bed, or lighting a candle once in a while, or reading a good book. A healthy mind is always ready to learn.
+
+I hope you enjoy the platform, and maybe even begin your personal growth journey!
+
+<3 Erin
