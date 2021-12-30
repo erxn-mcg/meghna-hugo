@@ -68,10 +68,10 @@ name = "themefisher"
 url = "https://themefisher.com/"
 weight = 8
 [params]
-author = "Themefisher"
-description = "Responsive Multipurpose Parallax Hugo Template"
+author = "Erin McG"
+description = "Study. Productivity. Personal Growth"
 google_analytics_id = ""
-logo = "images/cactilogo.png"
+logo = "images/cacti.png"
 post_share = true
 [params.cookies]
 enable = true
@@ -108,7 +108,7 @@ link = "plugins/lazy-load/lozad.min.js"
 link = "plugins/google-map/map.js"
 [params.preloader]
 enable = true
-preloader = "images/cactilogo.png"
+preloader = "images/cacti.png"
 [[params.social]]
 icon = "ti-instagram"
 link = "#"
