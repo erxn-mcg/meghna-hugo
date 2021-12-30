@@ -323,7 +323,7 @@ a:hover {
 }
 
 .section-bg {
-  background: #F3edd9;
+  background: #e8ddbc;
 }
 
 .overly {
@@ -412,9 +412,8 @@ a:hover {
   margin-bottom: 0;
 }
 
-.navbar-dark .navbar-nav .nav-link.active {
-  colour: #000;
-  font-weight: 800;
+.navbar-dark .navbar-nav .nav-link {
+color: rgb(0,0,0);
 }
 
 .navbar-dark .navbar-nav .active>.nav-link,
