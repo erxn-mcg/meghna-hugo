@@ -1,8 +1,8 @@
 ---
 funfacts:
   enable: true
-  bg_image: images/backgrounds/bg-white-wall.jpg
-  bg_image_webp: images/backgrounds/bg-white-wall.webp
+  bg_image: images/backgrounds/pexels-photo-46274.jpeg
+  bg_image_webp: images/backgrounds/pexels-photo-46274.jpeg
   counter_item:
   - title: Products Reviewed
     icon: ti-face-smile
