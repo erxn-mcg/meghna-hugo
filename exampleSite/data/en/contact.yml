@@ -1,6 +1,6 @@
 ---
 contact:
-  enable: true
+  enable: false
   title: Contact Us
   subtitle: Want to collaborate?
   content: DO you have tips to study better? Do think you would be perfect for an
@@ -12,7 +12,7 @@ contact:
     info: 'Email: studicacti@gmail.com'
   contact_form:
     enable: true
-    form_action: "mailto:studicacti@gmail.com"
+    form_action: mailto:studicacti@gmail.com
     name: Your Name
     email: Your Email
     subject: Subject
