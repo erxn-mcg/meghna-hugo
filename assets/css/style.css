@@ -163,7 +163,7 @@ a:hover {
 }
 
 .bg-one {
-  background-color: #db9e82;
+  background-color: #e4bc9c;
 }
 
 .bg-dark {
@@ -319,11 +319,11 @@ a:hover {
 }
 
 .bg-gray {
-  background: #f9f9f9;
+  background: #d46f56;
 }
 
 .section-bg {
-  background: #292F36;
+  background: #d46f56;
 }
 
 .overly {
@@ -547,7 +547,7 @@ a:hover {
   About us section
 ==================================================================*/
 .about .block {
-  background: #ddac90;
+  background: #f3ecd8;
   padding: 30px;
   border-bottom: 2px solid transparent;
   transition: .5s all;
