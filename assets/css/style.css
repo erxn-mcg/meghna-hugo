@@ -163,7 +163,7 @@ a:hover {
 }
 
 .bg-one {
-  background-color: #Fdeddf;
+  background-color: #F3edd9;
 }
 
 .bg-dark {
@@ -319,11 +319,11 @@ a:hover {
 }
 
 .bg-gray {
-  background: #f3ecd8;
+  background: #F3edd9;
 }
 
 .section-bg {
-  background: #e8ddbc;
+  background: #F3edd9;
 }
 
 .overly {
@@ -346,8 +346,8 @@ a:hover {
 
 .header-bradcrumb a,
 .header-bradcrumb .active {
-  color: #cfcfcf;
-  font-weight: 200;
+  color: #000;
+  font-weight: 400;
   font-family: "Quattrocento Sans", sans-serif;
 }
 
