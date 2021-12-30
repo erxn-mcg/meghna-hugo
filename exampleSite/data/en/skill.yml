@@ -9,7 +9,7 @@ skill:
     in order to succeed, and Studi Cacti is here to support you all the way!
   image: images/about/company-growth.webp
   skill_item:
-  - name: Sleep
+  - name: Rest
     percent: 80%
   - name: Analysis
     percent: 70%
