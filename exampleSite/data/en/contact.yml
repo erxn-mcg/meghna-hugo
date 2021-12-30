@@ -8,15 +8,11 @@ contact:
     engaged audience? If so, send us a message and we would love to welcome you to
     the study cacti family!
   contact_list:
-  - icon: ti-mobile
-    info: 'Phone: +880-31-000-000'
-  - icon: ti-printer
-    info: 'Fax: +880-31-000-000'
   - icon: ti-email
     info: 'Email: studicacti@gmail.com'
   contact_form:
     enable: true
-    form_action: "#"
+    form_action: "#mailto:studicacti@gmail.com"
     name: Your Name
     email: Your Email
     subject: Subject
