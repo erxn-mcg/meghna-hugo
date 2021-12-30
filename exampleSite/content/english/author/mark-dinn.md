@@ -5,7 +5,7 @@ email: studicacti@gmail.com
 social:
 - icon: ti-instagram
   link: ''
-- icon: ti-twitter-alt
+- icon: ti-pinterest-alt
   link: "#"
 - icon: ti-github
   link: "#"
