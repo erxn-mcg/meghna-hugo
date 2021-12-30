@@ -536,7 +536,7 @@ a:hover {
 }
 
 .dark-bg {
-  background: rgba(0, 0, 0, 0.7);
+  background: #db9e82;
   height: 100%;
   width: 100%;
   position: absolute;
@@ -547,7 +547,7 @@ a:hover {
   About us section
 ==================================================================*/
 .about .block {
-  background: #242930;
+  background: #db9e82;
   padding: 30px;
   border-bottom: 2px solid transparent;
   transition: .5s all;
