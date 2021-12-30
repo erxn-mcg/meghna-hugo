@@ -13,8 +13,8 @@ skill:
     percent: 80%
   - name: Nourishment
     percent: 70%
-  - name: Design
-    percent: 80%
+  - name: Study
+    percent: 90%
   - name: IOS Development
     percent: 95%
   - name: Android Development
