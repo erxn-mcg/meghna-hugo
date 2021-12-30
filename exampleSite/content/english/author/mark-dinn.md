@@ -1,10 +1,10 @@
 ---
-title: Erin
+title: Erin McG
 image: ''
-email: erinmmcgurk@icloud.com
+email: studicacti@gmail.com
 social:
-- icon: ti-facebook
-  link: "#"
+- icon: ti-instagram
+  link: ''
 - icon: ti-twitter-alt
   link: "#"
 - icon: ti-github
