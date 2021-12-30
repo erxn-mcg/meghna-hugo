@@ -5,7 +5,7 @@ portfolio:
   portfolio_item:
   - name: Space Out
     image: images/portfolio/Screenshot 2021-12-30 at 14.25.16.png
-    image_webp: images/portfolio/portfolio-6.webp
+    image_webp: images/portfolio/Screenshot 2021-12-30 at 14.25.16.png
     categories:
     - websites
     content: Time and plan your revision sessions with ease!
