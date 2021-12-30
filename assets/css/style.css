@@ -303,7 +303,7 @@ a:hover {
   text-transform: capitalize;
   font-weight: 700;
   font-size: 38px;
-  color: #fff;
+  color: #000;
 }
 
 .title h2 span {
@@ -475,7 +475,7 @@ a:hover {
 
 .hero-area .block h1 {
   font-size: 90px;
-  color: #fff;
+  color: #000;
   text-transform: capitalize;
   font-weight: 700;
   margin-bottom: 20px;
