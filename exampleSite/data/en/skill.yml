@@ -11,7 +11,7 @@ skill:
   skill_item:
   - name: Rest
     percent: 80%
-  - name: Analysis
+  - name: Hobbies
     percent: 70%
   - name: Design
     percent: 80%
